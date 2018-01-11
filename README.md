@@ -1,2 +1,3 @@
 # hello-cosmos
-Creating in support of a training exercise on GitHub
+Created in support of a training exercise on GitHub
+Random information about myself.
